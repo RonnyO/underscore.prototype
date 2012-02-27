@@ -1,0 +1,8 @@
+{
+  "name": "underscore-prototype",
+  "description": "Extends native JS object prototypes with underscore methods",
+  "keywords":["underscore", "prototype", "javascript"],
+  "author": "Cezary Wojtkowski <cezary@gmail.com>",
+  "main": "./lib/underscore-prototype.js",
+  "version": "0.0.1"
+}
